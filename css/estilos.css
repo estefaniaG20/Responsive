@@ -1,0 +1,272 @@
+
+body{
+    margin: 0;
+    padding: 0;
+    font-family: "roboto",sans-serif;
+}
+.header{
+    background-color: rgba(0, 0, 0, 0.87);
+    border-bottom: solid 8px #1293d4;
+    
+}
+
+.divHeader{
+    background-color: rgb(44, 43, 43);
+    display: flex;
+    width: auto;
+    font-size: 2.5rem;
+    
+}
+
+.desarrollo {
+    color: white;
+    margin-left: 95px;
+    display: flex;
+}
+
+
+
+.web {
+    color: rgb(0, 162, 255);
+    display: flex;
+}
+
+.bottom1{
+    margin-left:550px;
+    display: flex;
+    color: white;
+    font-size: 1.5rem;
+    align-items: center;
+
+}
+
+.bottom1:hover{
+    color: rgb(18, 147, 212);
+}
+
+.bottom{
+    margin-left:50px;
+    display: flex;
+    color: white;
+    font-size: 1.5rem;
+    align-items: center;
+}
+
+.bottom:hover{
+    color: rgb(18, 147, 212);
+}
+
+a{
+    color: white;
+    text-decoration: none;
+
+}
+
+.sectionMitad{
+    height: 800px;
+    background: url(../source/img/manos.jpeg) 0 -460px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center !important;
+    align-items: center;
+    
+}
+
+.expertos{
+    display: flex;
+    width: 40%;
+    flex-direction: column;
+    gap: 20px;
+    justify-content: center !important;
+    color: white;
+    text-align: center;
+}
+
+.expertos h1{
+    font-size: 70px;
+    justify-content: center !important;
+    
+}
+
+.headerUltimo{
+    background-color: rgba(0, 0, 0, 0.87);
+    height: 80px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.suscribete{
+    color: white;
+}
+
+.suscribirse{
+    color: white;
+    background-color: rgb(232 73 29);
+}
+
+.formulario{
+    display: flex;
+    justify-content: end;
+    height:30px;
+}
+
+.html1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 500px;
+}
+
+.css1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 500px;
+}
+
+.diseño1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 500px;
+}
+
+.material{
+    height: auto;
+    flex-direction: row;
+    align-items: center;
+    display: flex;
+    justify-content:space-around;
+    padding: 30px 3px;
+}
+
+.textomaterial{
+    display: flex;
+    text-align: center;
+}
+
+footer{
+    background-color: rgb(18, 147, 212);
+    height: 100px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.textofooter{
+    text-align: center;
+    display: flex;
+    color: white;
+}
+
+.nosotros1{
+    width: 800px;
+}
+
+.nosotrosestilo{
+    background-color: rgb(53, 66, 74);
+    color: white;
+    font-size: 20px;
+    padding: 15px 15px 15px 15px;
+}
+
+.parra1{
+    font-size: 20px;
+    padding: 15px 15px 15px 15px;
+}
+
+.quehacemos{
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    color: white;
+    height: 100%;
+
+}
+
+.quehacemos1{
+    background-color: rgb(53, 66, 74);
+    width: 100%;
+    height: auto;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    flex-direction:column;
+    padding: 15px 15px 15px 15px;
+    margin-bottom: 20px;
+}
+
+
+.textoimagen1{
+    color: white;
+    background-color: rgb(53, 66, 74);
+    width: 800px;
+}
+
+.todoenuno{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.imagencafe{
+    width: 800px;
+}
+
+.diseñoweb{
+    background-color: #e6e6e6;
+    height: 200px;
+    padding: 15px 15px 15px 15px;
+    margin-bottom: 20px;
+}
+
+.desarrolloweb{
+    background-color: #e6e6e6;
+    height: 200px;
+    padding: 15px 15px 15px 15px;
+    margin-bottom: 20px;
+    
+
+}
+
+.hostingweb{
+    background-color: #e6e6e6;
+    height: 200px;
+    padding: 15px 15px 15px 15px;
+    margin-bottom: 20px;
+    
+}
+
+span{
+    color: #1293d4;
+}
+
+.pepe{
+    font-size: 20px;
+}
+
+.inputs{
+    width: 700px;
+    height: 30px;
+    font-size: 19px;
+}
+
+.mensaje{
+    width: 700px;
+    height: 200px;
+}
+
+.ingresar{
+    width: 710px;
+    height: 40px;
+    background-color: rgb(255, 107, 2);
+    border-color: rgb(255, 107, 2);
+}
+
